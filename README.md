@@ -2,9 +2,11 @@
 
 **Estudiante de Ingeniería de Software | Python | Backend Developer**
 
-📍 Santa Marta, Magdalena, Colombia
+📍 Cienaga, Magdalena, Colombia
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnYwM3AwMWNxbjlyMTR6NzJwNWJtNGQ4c3I0N29yYTZjMG1uMGRvZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="400"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</p>
 
 ---
 
