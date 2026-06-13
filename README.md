@@ -95,4 +95,6 @@ Universidad Cooperativa de Colombia
 
 ---
 
-> "La práctica constante convierte los problemas complejos en soluciones simples."
+<p align="center">
+  <i>"La práctica constante convierte los problemas complejos en soluciones simples."</i>
+</p>
