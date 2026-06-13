@@ -1,11 +1,15 @@
-# 👨‍💻 Bleyder Martínez
-
-**Estudiante de Ingeniería de Software | Python | Backend Developer**
-
-📍 Cienaga, Magdalena, Colombia
+<h1 aling="center">👨‍💻 Bleyder Martínez</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+  <strong>Estudiante de Ingeniería de Software | Python | Backend Developer</strong>
+</p>
+
+<p align="center">
+  📍 Ciénaga, Magdalena, Colombia
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500">
 </p>
 
 ---
