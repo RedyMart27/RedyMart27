@@ -89,8 +89,6 @@ Universidad Cooperativa de Colombia
 
 ✉️ Correo: bleydermartinez.dev@gmail.com
 
-🐙 GitHub: https://github.com/RedyMart27
-
 💼 LinkedIn: https://www.linkedin.com/in/bleyder-yesid-mart%C3%ADnez-pacheco-6a3621304/
 
 ---
