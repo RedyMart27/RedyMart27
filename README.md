@@ -1,4 +1,4 @@
-<h1 aling="center">👨‍💻 Bleyder Martínez</h1>
+<h1 align="center">👨‍💻 Bleyder Martínez</h1>
 
 <p align="center">
   <strong>Estudiante de Ingeniería de Software | Python | Backend Developer</strong>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300">
 </p>
 
 ---
