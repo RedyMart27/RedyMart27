@@ -35,10 +35,14 @@ Actualmente busco seguir creciendo como desarrollador y adquirir experiencia pro
 
 - HTML5
 - CSS3
+- FastAPI
+- Flask (Básico)
 
 ### 🗄️ Bases de Datos
 
 - MySQL (Básico)
+- SQLite
+- SQLAlchemy
 
 ### 🔧 Herramientas
 
@@ -62,9 +66,10 @@ Actualmente busco seguir creciendo como desarrollador y adquirir experiencia pro
 
 Sistema de gestión de cosecha bananera desarrollado como proyecto académico orientado al registro, seguimiento y administración de procesos relacionados con la producción agrícola.
 
-### 💬 Aplicación de Mensajería con Integración de API SOAT
+### 🗒️ API de Tareas
+API REST de gestión de tareas desarrollada con Python y Flask. 
+Incluye endpoints CRUD completos, filtrado por estado y manejo de errores HTTP personalizados.
 
-Aplicación tipo mensajería desarrollada como proyecto académico, enfocada en la integración y consulta de información relacionada con el SOAT.
 
 ---
 
