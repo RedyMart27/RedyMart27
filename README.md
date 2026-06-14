@@ -75,8 +75,6 @@ Incluye endpoints CRUD completos, filtrado por estado y manejo de errores HTTP p
 
 ## 📊 Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedyMart27&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedyMart27&layout=compact)
 
 ---
